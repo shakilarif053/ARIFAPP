@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810752920759",
+    "project_id": "arifapp-62a6c",
+    "storage_bucket": "arifapp-62a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810752920759:android:6c1a465ee0f7e784b95132",
+        "android_client_info": {
+          "package_name": "com.example.arifapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810752920759-53lluk5v8nbjk5to857i5v3ou4v5phlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx4f6-Vmki-tFK7BBDsbbp22lQ_EqYu-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810752920759-53lluk5v8nbjk5to857i5v3ou4v5phlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
